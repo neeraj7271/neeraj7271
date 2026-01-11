@@ -109,14 +109,16 @@ I enjoy solving **complex backend problems**, integrating **offline systems like
 ---
 
 ## 📊 GitHub Stats
+
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=neeraj7271&theme=react&show_icons=false" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=neeraj7271&theme=react" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=neeraj7271&show_icons=true&theme=react&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=neeraj7271&theme=react&hide_border=true" />
 </p>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=neeraj7271&theme=react&layout=compact&langs_count=6" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj7271&layout=compact&theme=react&hide_border=true" />
 </p>
+
 
 ---
 
