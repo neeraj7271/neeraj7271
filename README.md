@@ -106,20 +106,4 @@ I enjoy solving **complex backend problems**, integrating **offline systems like
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?logoColor=black)
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=neeraj7271&show_icons=true&theme=react&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=neeraj7271&theme=react&hide_border=true" />
-</p>
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj7271&layout=compact&theme=react&hide_border=true" />
-</p>
-
-
----
-
 ![snake gif](https://github.com/neeraj7271/neeraj7271/blob/output/github-contribution-grid-snake-dark.svg)
