@@ -106,4 +106,4 @@ I enjoy solving **complex backend problems**, integrating **offline systems like
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?logoColor=black)
 
-![snake gif](https://github.com/neeraj7271/neeraj7271/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/neeraj7271/neeraj7271/blob/output/github-contribution-grid-snake-light.svg)
