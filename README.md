@@ -1,112 +1,109 @@
-
-Digital menu platform for cafes and restaurants with admin controls, customer-facing menu browsing, and QR-based access.
-
-**Highlights**
-
-- Built mobile-first customer menu experience
-- Added admin CRUD for menu items, categories, pricing, availability, bestsellers, and chef specials
-- Enabled real-time menu updates without reprinting physical menus
-- Added feedback collection for customer engagement and marketing
-
-**Tech Stack:** React, TypeScript, Node.js, Express.js, MongoDB
-
----
-
-### IncarnetiX Tech - Corporate Website
-
-Single-page business website for a technology and automation company.
-
-**Highlights**
-
-- Developed a clean, responsive React website
-- Structured the frontend for maintainability and fast deployment
-- Deployed on Vercel
-
-**Tech Stack:** React, TypeScript, Vercel
-
----
-
-## Tech Stack
-
-### Backend & APIs
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
-![Authentication](https://img.shields.io/badge/Auth_%26_RBAC-2F80ED?style=flat-square)
-
-### Frontend & Desktop
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-
-### Integrations & Automation
-
-![Tally](https://img.shields.io/badge/Tally_XML-2C7BE5?style=flat-square)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square)
-![Azure OCR](https://img.shields.io/badge/Azure_OCR-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
-
-### Tools & Deployment
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-
----
-
-## Education
-
-**B.Tech in Computer Science and Business Systems**  
-JECRC University, Jaipur | 2021 - 2025  
-Grade: **9.5**
-
----
-
-## Certification
-
-- Introduction to JavaScript - Meta
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-![Neeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=neeraj7271&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj7271&layout=compact&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=neeraj7271&hide_border=true)
-
-</div>
-
----
-
-## Let's Work Together
-
-I am interested in opportunities where I can build reliable software for real business problems, especially in:
-
-- Backend and full-stack development
-- SaaS and ERP-style platforms
-- Accounting, invoicing, inventory, and workflow automation
-- Tally, desktop connector, and offline-to-cloud integrations
-- API integrations and business dashboards
-
-You can reach me through [LinkedIn](https://www.linkedin.com/in/neeraj-suman/), [email](mailto:neeraj8829sini@gmail.com), or my [portfolio](https://techwithneeraj.netlify.app/).
-
----
-
-<div align="center">
+![👋 Hi, my name is Neeraj Suman](./github-header-image.png)
 
 ![Profile views](https://komarev.com/ghpvc/?username=neeraj7271&label=Profile%20views&color=0e75b6&style=flat)
 
-![snake gif](https://github.com/neeraj7271/neeraj7271/blob/output/github-contribution-grid-snake-light.svg)
-
+<div align="center">
+  <h1>👋 Hi, I’m Neeraj Suman</h1>
+  <h3>Full-Stack Developer | Backend & System Integration Specialist</h3>
 </div>
+
+---
+
+### 🚀 About Me
+
+I’m a Full-Stack Developer with a strong backend focus, experienced in building **production-grade web applications, accounting automation systems, and cloud–offline integrations**.  
+I work on **SaaS platforms, ERP-style systems, desktop connectors, and automation pipelines** that reduce manual effort and improve business workflows.
+
+I enjoy solving **complex backend problems**, integrating **offline systems like Tally**, and building reliable software that delivers real-world impact.
+
+---
+
+## 🔗 Connect with Me
+<p align="left">
+  <a href="https://github.com/neeraj7271" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28"/>
+  </a>
+  <a href="https://www.linkedin.com/in/neeraj-suman" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
+  </a>
+</p>
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 Software Developer — Gritha Technologies (AccountnTax)  
+📅 **Jan 2025 – Present**
+
+- Built and maintained **production-grade accounting automation features**, including **19+ invoice/report formats**, subscription-based feature access, and external API integrations.  
+- Developed an **Electron-based desktop connector** to sync cloud data with **offline Tally systems** using XML, reducing **manual entry time from ~1 min to ~1 sec per entry**.  
+- Designed scalable backend services for invoicing, OCR-based data extraction, and document sharing, improving system reliability and performance.
+
+---
+
+## 🚀 Featured Projects
+
+### 🧾 AccountnTax — Accounting Automation Platform
+🔗 *Product Project*
+
+- Automated invoicing, subscriptions, OCR-based invoice processing, and accounting workflows  
+- Built secure **Electron + Tally XML** integration for offline accounting sync  
+- Integrated **Razorpay**, **WhatsApp Business API**, and **Azure OCR**
+
+**Tech Stack:**  
+![Node.js](https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
+
+---
+
+### 📊 Multi-Institution Budget Management System (NGO)
+- Built a financial platform for **10+ NGOs & institutions**  
+- Automated ledger mapping, budget vs actual tracking, and audit-ready reports  
+- Reduced report generation time from **hours to ~5 seconds**
+
+---
+
+### 💍 Jewellery Order & Inventory Management Platform
+- Managed **3,600+ SKUs** imported directly from Tally  
+- Automated sample PDF generation (**15–20 min → ~30 sec**)  
+- Synced sales orders into Tally (**~1 min → ~1 sec per entry**) using Electron
+
+---
+
+### 📱 QR-Based Digital Menu Management System
+- Built QR-based digital menu for cafes with **admin & customer panels**  
+- Enabled real-time menu updates and pricing changes  
+- Eliminated physical menu printing
+
+---
+
+### 🌐 IncarnetiX Tech — Corporate Website
+- Developed a single-page **React** website for a business automation company  
+- Deployed on **Vercel** with clean, scalable architecture
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend & Integration
+![Node.js](https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
+![Tally](https://img.shields.io/badge/Tally-2C7BE5?logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?logoColor=black)
+
+![snake gif](https://github.com/neeraj7271/neeraj7271/blob/output/github-contribution-grid-snake-light.svg)
